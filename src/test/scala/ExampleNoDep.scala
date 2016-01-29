@@ -20,8 +20,10 @@ class StackSpec extends FlatSpec {
 
 }
 
+/*
 class FailingTest extends FlatSpec {
   it should "simply fail. Uncomment to pass with runs" in {
     assert(false)
   }
 }
+ */
